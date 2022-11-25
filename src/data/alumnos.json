@@ -1,0 +1,28 @@
+[
+    {
+    "nombre": "juan",
+    "apellido":"gomez",
+    "edad": 24
+    },
+    {
+        "nombre": "Matias",
+        "apellido":"Sauan",
+        "edad": 25
+        },
+        {
+            "nombre": "Ignacio",
+            "apellido":"Maugere",
+            "edad": 20
+            },
+            {
+                "nombre": "Facundo",
+                "apellido":"Angiolucci",
+                "edad": 34
+                },
+                {
+                    "nombre": "Soledad",
+                    "apellido":"Perviu",
+                    "edad": 44
+                    }
+
+]
